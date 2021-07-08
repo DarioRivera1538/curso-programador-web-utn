@@ -1,3 +1,7 @@
 manzanas 
 bananas
 mandarinas
+
+flan 
+facturas 
+pollo
